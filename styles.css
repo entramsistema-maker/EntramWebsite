@@ -1234,6 +1234,7 @@ header#inicio::after {
 }
 
 .grupo-formulario label {
+   color: black;
     display: block;
     margin-bottom: 8px;
     font-size: 0.9rem;
